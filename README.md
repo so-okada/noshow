@@ -27,7 +27,7 @@ We need two csv files:
 
 * an attendance report.
 
-We assume that encodings of these csv files are utf-8. There are sample csv files in the data directory. Please refer to
+We assume that encodings of these csv files are utf-8. There are sample csv files in the tests directory. Please refer to
 https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310
 for downloading an attendance report of your meeting.
 
