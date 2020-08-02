@@ -64,22 +64,22 @@ An example: --min '00:50:00 until 2020-07-04 11:30'
 
 
 ```bash
-%./python3 noshow.py -e data/names-sample.csv -a data/att-sample.csv ['Rakot Bann']
+%./python3 noshow.py -e tests/names.csv -a tests/att.csv ['Rakot Bann']
 
 
-% ./noshow.py -e data/names-sample.csv -a data/att-sample.csv --before '2020-07-04 9:54'
+% ./noshow.py -e tests/names.csv -a tests/att.csv --before '2020-07-04 9:54'
 ['Mouma Neew', 'Taraya da Silvane', 'Rakot Bann']
 
 
-% ./noshow.py -e data/names-sample.csv -a data/att-sample.csv --after '2020-07-04 10:43'
+% ./noshow.py -e tests/names.csv -a tests/att.csv --after '2020-07-04 10:43'
 ['Rakot Bann', 'Bowge Syr', 'Makota Teeni']
 
 
-% ./noshow.py -e data/names-sample.csv -a data/att-sample.csv --during '2020-07-04 10:35:12 to 2020-07-04 10:35:20'
+% ./noshow.py -e tests/names.csv -a tests/att.csv --during '2020-07-04 10:35:12 to 2020-07-04 10:35:20'
 ['Rakot Bann', 'Sarako Thoma', 'Bowge Syr']
 
 
-% ./noshow.py -e data/names-sample.csv -a data/att-sample.csv --min '00:50 until 2020-07-04 11:30'
+% ./noshow.py -e tests/names.csv -a tests/att.csv --min '00:50 until 2020-07-04 11:30'
 ['Bowge Syr', 'Rakot Bann']
 ```
 
