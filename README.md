@@ -1,6 +1,6 @@
-# Project info
+# Application Info
 
-This project "noshow" provides a simple analyzer for attendance reports of Microsoft 365 teams meetings. We use python3 scripts. This project is not affiliated with Microsoft. 
+This appcation "noshow" provides a simple analyzer for attendance reports of Microsoft 365 teams meetings. We use python3 scripts. This project is not affiliated with Microsoft. 
 
 ## Setup
 
