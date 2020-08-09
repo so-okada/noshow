@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# a simple analyzer for attendance reports of Microsoft 365 teams meetings.
-# Version 0.0.1, initial release at 2020-07-05
+# a simple analyzer for attendance reports
+# of Microsoft 365 teams meetings.
 # https://github.com/so-okada/noshow/
 # Written by So.Okada, so.okada@gmail.com
 
