@@ -64,7 +64,7 @@ An example: --min '00:50:00 until 2020-07-04 11:30'
 
 
 ```bash
-%./python3 noshow.py -e tests/names.csv -a tests/att.csv ['Rakot Bann']
+%./noshow.py -e tests/names.csv -a tests/att.csv ['Rakot Bann']
 
 
 % ./noshow.py -e tests/names.csv -a tests/att.csv --before '2020-07-04 9:54'
