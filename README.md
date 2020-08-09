@@ -29,7 +29,7 @@ We need two csv files:
 
 We assume that encodings of these csv files are utf-8. Samples are 
  in the tests directory. Please refer to
-https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310 and https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33989875-view-or-export-a-list-of-users-who-attended-a-meet for attendance reports of your meetings.
+https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310 and https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33989875-view-or-export-a-list-of-users-who-attended-a-meet for downloading attendance reports of your meetings.
 
 
 ```
