@@ -6,17 +6,17 @@ This application "noshow" provides a simple analyzer for attendance reports of M
 
 * Install pandas and dateutil. 
 
-```bash
-% pip3 install pandas
+	```bash
+	% pip3 install pandas
 
-% pip3 install python-dateutil
-```
+	% pip3 install python-dateutil
+	```
 
 * Let noshow.py be executable.
 
-```bash
-% chmod +x noshow.py
-```
+	```bash
+	% chmod +x noshow.py
+	```
 * Put noshow.py and noshow_commands.py in the same directory.
 
 ## Usage
