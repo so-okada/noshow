@@ -88,7 +88,7 @@ An example: --min '00:50:00 until 2020-07-04 11:30'
 
 * 0.0.1
 
-  * Initial release 2020-07-05
+  * 2020-07-15, initial release.
  
 ## Author
 So Okada, so.okada@gmail.com, https://so-okada.github.io/
